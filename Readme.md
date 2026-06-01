@@ -2,7 +2,7 @@
   <img src="PussInBoots/ai_cutout/puss_in_boots_ai_cutout.png" alt="Puss in Boots AI cutout" width="400">
 </p>
 
-# Gustave Doré Character Cutouts / Détourages de personnages de Gustave Doré
+# Gustave Doré Character Cutouts 
 
 
 This project aims to collect and share cut-out characters extracted from illustrations by **Gustave Doré**.
