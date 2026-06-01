@@ -31,6 +31,7 @@ If you want to replace or improve an AI-generated cutout with a careful manual v
 
 Each file must specify its cutout method.
 
+```
 /
 ├── originals/
 │   └── source images or references
@@ -40,3 +41,4 @@ Each file must specify its cutout method.
 │   └── manual/
 │       └── hand-made cutouts
 └── README.md
+```
