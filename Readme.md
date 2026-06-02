@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PussInBoots/ai_cutout/puss_in_boots_ai_cutout.png" alt="Puss in Boots AI cutout" width="400">
+  <img src="PussInBoots/cutouts/ai_cutout/puss_in_boots_ai_cutout.png" alt="Puss in Boots AI cutout" width="400">
 </p>
 
 # Gustave Doré Character Cutouts 
